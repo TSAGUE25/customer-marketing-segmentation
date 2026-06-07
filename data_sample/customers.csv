@@ -1,0 +1,81 @@
+id_client,nom,prenom,age,genre,ville,region,date_inscription,canal_acquisition,categorie_principale
+C001,Martin,Sophie,34,F,Paris,Ile-de-France,2020-03-15,Web,Mode
+C002,Dupont,Thomas,45,M,Lyon,Auvergne-Rhône-Alpes,2019-07-22,Magasin,Electronique
+C003,Bernard,Emma,28,F,Bordeaux,Nouvelle-Aquitaine,2021-01-10,Web,Beauté
+C004,Petit,Lucas,52,M,Lille,Hauts-de-France,2018-11-05,Magasin,Sport
+C005,Durand,Camille,31,F,Nice,PACA,2020-08-19,Web,Mode
+C006,Laurent,Nicolas,38,M,Strasbourg,Grand Est,2019-04-30,Email,Maison
+C007,Simon,Julie,26,F,Rennes,Bretagne,2022-02-14,Web,Beauté
+C008,Michel,Antoine,61,M,Toulouse,Occitanie,2017-06-08,Magasin,Sport
+C009,Garcia,Marie,29,F,Nantes,Pays de la Loire,2021-09-25,Web,Mode
+C010,Moreau,Paul,44,M,Marseille,PACA,2019-12-01,Magasin,Electronique
+C011,Fontaine,Laura,33,F,Paris,Ile-de-France,2020-05-20,Web,Mode
+C012,Chevalier,Romain,48,M,Lyon,Auvergne-Rhône-Alpes,2018-03-12,Email,Maison
+C013,Lambert,Nathalie,55,F,Bordeaux,Nouvelle-Aquitaine,2017-09-18,Magasin,Alimentaire
+C014,Rousseau,Kevin,24,M,Lille,Hauts-de-France,2022-06-01,Web,Electronique
+C015,Vincent,Stephanie,41,F,Nice,PACA,2019-02-14,Web,Beauté
+C016,Lefebvre,Marc,36,M,Strasbourg,Grand Est,2020-10-08,Magasin,Sport
+C017,Girard,Pauline,27,F,Rennes,Bretagne,2021-11-30,Web,Mode
+C018,Bonnet,Jerome,50,M,Toulouse,Occitanie,2018-07-22,Email,Maison
+C019,Morel,Isabelle,39,F,Nantes,Pays de la Loire,2019-05-11,Web,Beauté
+C020,Dupuis,Christophe,43,M,Marseille,PACA,2018-01-25,Magasin,Electronique
+C021,Robin,Caroline,30,F,Paris,Ile-de-France,2021-04-16,Web,Mode
+C022,Clement,Frederic,47,M,Lyon,Auvergne-Rhône-Alpes,2018-08-09,Email,Alimentaire
+C023,Gauthier,Audrey,35,F,Bordeaux,Nouvelle-Aquitaine,2020-06-22,Web,Beauté
+C024,Meyer,Lionel,58,M,Lille,Hauts-de-France,2017-02-14,Magasin,Sport
+C025,Renard,Claire,22,F,Nice,PACA,2022-11-05,Web,Mode
+C026,Blanc,Patrick,53,M,Strasbourg,Grand Est,2018-04-19,Magasin,Electronique
+C027,Guerin,Sabrina,37,F,Rennes,Bretagne,2020-09-03,Web,Maison
+C028,Lefevre,Baptiste,32,M,Toulouse,Occitanie,2021-03-28,Web,Sport
+C029,Andre,Valerie,46,F,Nantes,Pays de la Loire,2019-01-15,Email,Alimentaire
+C030,Mercier,David,25,M,Marseille,PACA,2022-07-18,Web,Electronique
+C031,Perez,Helene,40,F,Paris,Ile-de-France,2019-11-22,Web,Beauté
+C032,Leroy,Guillaume,54,M,Lyon,Auvergne-Rhône-Alpes,2017-05-30,Magasin,Sport
+C033,Roux,Veronique,49,F,Bordeaux,Nouvelle-Aquitaine,2018-10-07,Email,Maison
+C034,Bourgeois,Florian,23,M,Lille,Hauts-de-France,2022-09-14,Web,Electronique
+C035,Marchand,Anne,38,F,Nice,PACA,2020-02-28,Web,Mode
+C036,Giraud,Stephane,42,M,Strasbourg,Grand Est,2019-06-17,Magasin,Alimentaire
+C037,Leclerc,Sandrine,31,F,Rennes,Bretagne,2021-07-04,Web,Beauté
+C038,Bertrand,Matthieu,57,M,Toulouse,Occitanie,2017-12-20,Magasin,Sport
+C039,Fernandez,Celine,44,F,Nantes,Pays de la Loire,2019-08-09,Web,Mode
+C040,Masson,Xavier,29,M,Marseille,PACA,2021-10-31,Web,Electronique
+C041,Dumont,Patricia,62,F,Paris,Ile-de-France,2016-04-10,Magasin,Alimentaire
+C042,Fournier,Alexis,26,M,Lyon,Auvergne-Rhône-Alpes,2022-04-25,Web,Sport
+C043,Picard,Brigitte,51,F,Bordeaux,Nouvelle-Aquitaine,2018-06-14,Email,Maison
+C044,Mathieu,Vincent,33,M,Lille,Hauts-de-France,2021-02-19,Web,Electronique
+C045,Huet,Sylvie,45,F,Nice,PACA,2019-03-08,Web,Beauté
+C046,Barbier,Olivier,37,M,Strasbourg,Grand Est,2020-07-12,Magasin,Sport
+C047,Roy,Eloise,24,F,Rennes,Bretagne,2022-10-20,Web,Mode
+C048,Poirier,Denis,56,M,Toulouse,Occitanie,2017-08-03,Magasin,Alimentaire
+C049,Leblanc,Marine,32,F,Nantes,Pays de la Loire,2021-05-16,Web,Beauté
+C050,Colin,Sebastien,41,M,Marseille,PACA,2019-10-24,Web,Electronique
+C051,Gerard,Francoise,67,F,Paris,Ile-de-France,2016-01-08,Magasin,Alimentaire
+C052,Dufour,Maxime,28,M,Lyon,Auvergne-Rhône-Alpes,2022-01-31,Web,Electronique
+C053,Lacroix,Laure,36,F,Bordeaux,Nouvelle-Aquitaine,2020-04-05,Web,Mode
+C054,Garnier,Thierry,50,M,Lille,Hauts-de-France,2018-09-28,Magasin,Sport
+C055,Leclercq,Amelie,27,F,Nice,PACA,2022-05-17,Web,Beauté
+C056,Courtois,Bruno,60,M,Strasbourg,Grand Est,2017-03-22,Email,Maison
+C057,Legrand,Karine,34,F,Rennes,Bretagne,2020-11-13,Web,Mode
+C058,Gautier,Jerome,48,M,Toulouse,Occitanie,2018-05-06,Magasin,Alimentaire
+C059,Adam,Isabelle,43,F,Nantes,Pays de la Loire,2019-07-29,Web,Maison
+C060,Perrin,Franck,35,M,Marseille,PACA,2020-12-10,Web,Sport
+C061,Simon,Delphine,29,F,Paris,Ile-de-France,2021-06-21,Web,Beauté
+C062,Nguyen,Philippe,39,M,Lyon,Auvergne-Rhône-Alpes,2019-09-14,Email,Electronique
+C063,Schmitt,Lucie,25,F,Bordeaux,Nouvelle-Aquitaine,2022-03-08,Web,Mode
+C064,Lepage,Christophe,55,M,Lille,Hauts-de-France,2017-11-25,Magasin,Sport
+C065,Maillard,Florence,38,F,Nice,PACA,2020-01-18,Web,Maison
+C066,Brun,Laurent,46,M,Strasbourg,Grand Est,2019-04-02,Email,Alimentaire
+C067,Thomas,Stephanie,31,F,Rennes,Bretagne,2021-08-15,Web,Mode
+C068,Mallet,Didier,52,M,Toulouse,Occitanie,2018-02-27,Magasin,Electronique
+C069,Richard,Emilie,28,F,Nantes,Pays de la Loire,2022-06-30,Web,Beauté
+C070,Collet,Gerard,64,M,Marseille,PACA,2015-10-15,Magasin,Alimentaire
+C071,Perrot,Valerie,42,F,Paris,Ile-de-France,2019-08-22,Web,Mode
+C072,Gilles,Mickael,33,M,Lyon,Auvergne-Rhône-Alpes,2021-01-05,Web,Sport
+C073,Moulin,Sylvette,57,F,Bordeaux,Nouvelle-Aquitaine,2017-07-10,Magasin,Alimentaire
+C074,Charles,Antoine,24,M,Lille,Hauts-de-France,2022-08-19,Web,Electronique
+C075,Loiseau,Noemie,36,F,Nice,PACA,2020-03-25,Web,Beauté
+C076,Tessier,Guillaume,49,M,Strasbourg,Grand Est,2018-12-03,Email,Maison
+C077,Lecomte,Elodie,30,F,Rennes,Bretagne,2021-09-11,Web,Mode
+C078,Renault,Pascal,58,M,Toulouse,Occitanie,2017-04-18,Magasin,Sport
+C079,Arnaud,Margot,23,F,Nantes,Pays de la Loire,2022-12-01,Web,Mode
+C080,Carpentier,Michel,53,M,Marseille,PACA,2018-08-14,Magasin,Electronique
