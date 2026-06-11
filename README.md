@@ -289,6 +289,17 @@ viz.plot_radar_profiles(clustered)
 
 ---
 
+## Ce projet démontre
+
+- La maîtrise de la **segmentation RFM** : calcul Récence/Fréquence/Montant + scoring par quintile robuste aux distributions asymétriques
+- La capacité à choisir **k optimal** (méthode du coude + silhouette score) et à valider un clustering K-means de manière rigoureuse
+- L'utilisation de **PCA pour la visualisation 2D** de clusters multidimensionnels — communication visuelle claire vers les équipes marketing
+- La **traduction de segments statistiques en actions marketing** actionnables : Champions → fidélité, À risque → réactivation, Perdus → win-back
+- Un pipeline **réutilisable** : adapter les CSV suffit pour segmenter n'importe quel CRM (e-commerce, retail, banque, télécoms)
+- La séparation propre entre **ingestion, modélisation et visualisation** (architecture OOP — `RFMAnalyzer`, `SegmentationVisualizer`)
+
+---
+
 ## 13. Contributors
 
 | Nom | Rôle | GitHub |
