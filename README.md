@@ -1,4 +1,4 @@
-# Customer Marketing Segmentation
+﻿# Customer Marketing Segmentation
 
 > Segmentation marketing de 80 clients par analyse RFM (Récence, Fréquence, Montant) et K-means clustering pour personnaliser les actions commerciales.  
 > **Stack :** Python · pandas · scikit-learn · matplotlib · seaborn
@@ -485,6 +485,13 @@ La segmentation (RFM/K-means) décrit ce que les clients ONT FAIT. Le scoring de
 | Data Quality Audit | [data-quality-audit-framework](https://github.com/TSAGUE25/data-quality-audit-framework) |
 | Building Energy Analytics | [building-energy-efficiency-analytics](https://github.com/TSAGUE25/building-energy-efficiency-analytics) |
 | Bank Churn Prediction | [bank-customer-churn-prediction](https://github.com/TSAGUE25/bank-customer-churn-prediction) |
+
+
+## Contributors
+
+| Nom | Role | GitHub |
+|-----|------|--------|
+| **TSAGUE Emmanuel** | Data Scientist - auteur principal | [@TSAGUE25](https://github.com/TSAGUE25) |
 
 ---
 
