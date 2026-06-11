@@ -497,5 +497,5 @@ La segmentation (RFM/K-means) décrit ce que les clients ONT FAIT. Le scoring de
 
 *Auteur : Emmanuel TSAGUE — Data Scientist / Data Analyst*  
 *Formation : DataScientest | Domaines : Commerce · Finance · Energie · Performance opérationnelle*  
-*Contact : emmoi.mtn@gmail.com*  
+*Contact : emmatsague@yahoo.fr*  
 *Données : entièrement simulées — aucune donnée réelle ou confidentielle*
