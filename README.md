@@ -310,5 +310,5 @@ viz.plot_radar_profiles(clustered)
 
 *Auteur : Emmanuel TSAGUE — Data Scientist / Data Analyst*
 *Formation : DataScientest | Domaines : Commerce · Finance · Énergie · Performance opérationnelle*
-*Contact : emmatsague@yahoo.fr*
+*Contact : emmatsague@yahoo.fr | [LinkedIn](https://www.linkedin.com/in/emmanuel-tsague-114295414)*
 *Données : entièrement simulées — aucune donnée réelle ou confidentielle*
