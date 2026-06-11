@@ -4,7 +4,7 @@ __pycache__/
 venv/
 .env
 .ipynb_checkpoints/
-*.ipynb
+# *.ipynb — notebooks tracked
 .vscode/
 .idea/
 .DS_Store
